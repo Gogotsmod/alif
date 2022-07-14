@@ -54,19 +54,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281223163244'] //ur owner number
+global.vcardowner = ['6281223163244'],['6281543253766'] //ur owner number
 global.ownername = "Hangga" //ur owner name
 global.ytname = "YT:Gogots mod" //ur yt chanel name
 global.socialm = "GitHub: Gogotsmod" //ur github or insta name
 global.location = "Indonesia " //ur location
 
 //bot bomdy 
-global.owner = ['6281223163244']
-global.ownertag = '6281223163244' //ur tag number
+global.owner = ['6281223163244'],['6281543253766']
+global.ownertag = '6281223163244','6281543253766' //ur tag number
 global.botname = 'Gogots Bot Md' //ur bot name
-global.linkz = "https://youtube.com/channel/UCSqtTBWsYLGLd1ObFDmrMCA" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCSqtTBWsYLGLd1ObFDmrMCA" //ur website to be displayed
-global.botscript = 'https://github.com/Gogotsmod/CheemsBot-MD4' //script link
+global.linkz = "https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Gogots Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6281223163244'] //ur premium numbers
+global.premium = ['6281223163244'],['6281543253766'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
