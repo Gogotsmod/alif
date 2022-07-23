@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281223163244'],['6281543253766'] //ur owner number
-global.ownername = "Hangga" //ur owner name
-global.ytname = "YT:Gogots mod" //ur yt chanel name
-global.socialm = "GitHub: Gogotsmod" //ur github or insta name
-global.location = "Indonesia " //ur location
+global.vcardowner = ['600133320979'] //ur owner number
+global.ownername = "Alip" //ur owner name
+global.ytname = "-" //ur yt chanel name
+global.socialm = "tiktok:tiktok.com/@nikiditz" //ur github or insta name
+global.location = "MALAYSIA " //ur location
 
 //bot bomdy 
-global.owner = ['6281223163244'],['6281543253766']
-global.ownertag = '6281223163244','6281543253766' //ur tag number
-global.botname = 'Gogots Bot Md' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.owner = ['600133320979']
+global.ownertag = '600133320979' //ur tag number
+global.botname = 'Alip' //ur bot name
+global.linkz = "tiktok.com/@nikiditz" //your theme url which will be displayed on whatsapp
+global.websitex = "tiktok.com/@nikiditz" //ur website to be displayed
+global.botscript = 'tiktok.com/@nikiditz' //script link
+global.reactmoji = "👋🏻" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Gogots Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "mehang" //ur sticker watermark author
+global.packname = "Alip\n\n\n\n\n\n\n\n\n\n\n🥶🥶🥶 " //ur sticker watermark packname
+global.author = "Alip" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
